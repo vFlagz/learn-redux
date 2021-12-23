@@ -1,1 +1,3 @@
 # learn-redux
+
+redux fundamentals
